@@ -1,4 +1,4 @@
-For info about the game, see "About"
+For info about game, see "About" section in code
 
 
 There are a few issues within the code that I am still working on.
